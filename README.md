@@ -21,3 +21,6 @@ This is a work in progress project.
 - Axios
 - React Icons
 - Lottie Animations
+
+## API:
+https://www.themoviedb.org/settings/api/stats
