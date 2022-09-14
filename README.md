@@ -10,3 +10,14 @@ Also I want to get better with Axios and API's.
 ----
 
 This is a work in progress project.
+
+----
+
+## Resources used in this project:
+- Tailwind
+- Next Js
+- Typescript
+- React Js
+- Axios
+- React Icons
+- Lottie Animations
